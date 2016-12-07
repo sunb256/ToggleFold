@@ -1,0 +1,3 @@
+[  
+    { "keys": ["super+m", "super+m"], "command": "toggle_fold" }
+] 
